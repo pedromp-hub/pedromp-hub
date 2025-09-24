@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Tecnico de Sistemas microinformaticos en red<br>📚 Actualmente estoy cursando desarrollo de aplicaciones web<br>🎯 Actualmente no considero tener punto fuerte ya que estoy en el proceso de aprendizaje <br>⚽ Mis hobbies son las motos y el futbol y siempre que tengo tiempo libre intento desconectar con ellos.</p>
+<p align="left">💻 Tecnico de Sistemas Microinformaticos en Red<br>📚 Actualmente estoy cursando Desarrollo de Aplicaciones Web<br>🎯 No considero tener punto fuerte ya que estoy en el proceso de aprendizaje. <br>⚽ Mis hobbies son las motos, el futbol y siempre que tengo tiempo libre intento desconectar con ellos.</p>
 
 ###
 
