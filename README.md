@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Pedro tengo 20 años y soy de Granada</p>
+<p align="left">Mi nombre es Pedro, tengo 20 años y soy de Granada</p>
 
 ###
 
