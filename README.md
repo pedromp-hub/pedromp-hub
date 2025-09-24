@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Tecnico de Sistemas microinformaticos en red<br>📚 Actualmente estoy cursando desarrollo de aplicaciones web<br>🎯 Actualmente no considero tener punto fuerte ya que estoy en el proceso de aprendizaje <br>⚽ Mis hobbies son las motos y el futbol y siempre que tengo tiempo libre intento desconectar con ellos.</p>
 
 ###
 
