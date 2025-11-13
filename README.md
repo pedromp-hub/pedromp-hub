@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://imgs.search.brave.com/E4d1AdXrFPtVvIGX8gDQzVAh6wbsrIkFkZE_0iz0YzU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni81OTY4LzU5Njgy/NjcucG5nP3NlbXQ9/YWlzX3doaXRlX2xh/YmVs" height="40" alt="html logo" />
   <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="40" alt="CSS logo" />
+  <img width="12" />
  
 </div>
 
